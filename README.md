@@ -1,4 +1,4 @@
- <h1>README - Skate Park</h1>
+ <h1>Skate Park</h1>
     <p>Este proyecto es una prueba práctica para desarrollar una plataforma web que permita a los participantes registrarse y revisar el estado de su solicitud para una competencia de Skate organizada por la Municipalidad de Santiago.</p>
 
   <h2>Habilidades Evaluadas</h2>
